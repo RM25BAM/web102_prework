@@ -159,10 +159,11 @@ const unfundedCount = unfundedGames.length;
 const unfundedStatement = unfundedCount === 1 ? `Currently, 1 game remains unfunded.` : `Currently, ${unfundedCount} games remain unfunded.`;
 
 // use a template string to display the information
+const displayStr = "The purpose of our company is to fund independent games. We've been in operation for 12 years."
 const displayString = `A total of ${totalRaised} has been raised for ${GAMES_JSON.length} games. ${unfundedStatement} We need your help to fund these amazing games.`;
 
 // set the innerHTML of the description container to the display string
-descriptionContainer.innerHTML = displayString;
+descriptionContainer.innerHTML = displayStr;
 
 
 // create a new DOM element containing the template string and append it to the description container
