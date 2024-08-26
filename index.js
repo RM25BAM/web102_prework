@@ -47,7 +47,7 @@ function addGamesToPage(games) {
         <h3 class="game-card-title">${game.name}</h3>
         <p class="game-card-desc">${game.description}</p>
         <p class="game-card-backers">${game.backers} backers</p>`;
-
+        // added the gameCard elements
         // append the game to the games-container
         //document.querySelector(".games-container").appendChild(gameCard);
         document.getElementById("games-container").appendChild(gameCard);

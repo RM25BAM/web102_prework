@@ -102,3 +102,7 @@ const template = `
 `
 
 export default games;
+
+
+
+/* Counted the properties for secretkey challenge 2 */
