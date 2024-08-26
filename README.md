@@ -1,10 +1,10 @@
 # WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Vedant Tewari**
+Submitted by: **Natasha Piedrabuena**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **7** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/Vtewari2311/web102_prework_2023/blob/main/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Vtewari2311/web102_prework_2023/blob/main/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -35,6 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had some issues with the secretkeys and understand abit how it translate to setting up the code. However I got it to work and I'm happy about it. 
 
 ## License
 
